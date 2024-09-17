@@ -1,0 +1,28 @@
+/* Reset Rules  */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+ul, ol {
+    list-style: none;
+}
+
+html {
+    font-family: "Poppins", sans-serif;
+}
+
+body {
+    background-color: burlywood;
+}
+.main-header {
+    background-color: wheat;
+    padding: 10px;
+    padding-left: 20px;
+}
+
+.container * {
+    vertical-align: middle;
+    font-size: 40px;
+}
